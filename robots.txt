@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://borneo338.ho2w.com/sitemap.xml
+Sitemap: http://www.admin.tresquintos.cl/sitemap.xml
